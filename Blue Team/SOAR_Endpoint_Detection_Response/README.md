@@ -48,7 +48,7 @@ This PDF provides step-by-step guidance on setting up the environment, configuri
 
 ## Resources 📚
 
-- [LimaCharlie Documentation](https://docs.limacharlie.io/) 📖
-- [Tines Documentation](https://www.tines.com/docs) 📘
-- [Lazagne GitHub Repository](https://github.com/AlessandroZ/LaZagne) 🔗
-- [Windows Documentation](https://learn.microsoft.com/en-us/windows/) 💡
+- [LimaCharlie Documentation](https://docs.limacharlie.io/) 
+- [Tines Documentation](https://www.tines.com/docs) 
+- [Lazagne GitHub Repository](https://github.com/AlessandroZ/LaZagne) 
+- [Windows Documentation](https://learn.microsoft.com/en-us/windows/) 
