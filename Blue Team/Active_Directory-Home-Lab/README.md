@@ -43,11 +43,11 @@ In this project, a Windows Server was configured with Active Directory and integ
 - Rapid response capabilities minimize the impact of security incidents 
 - The integration can easily adapt to growing organizational needs and additional security tools 
 
-## Detailed Project Documentation 📄
+## Detailed Project Documentation 📝
 
 For a comprehensive understanding of the project, including detailed setup instructions and in-depth explanations of each component, please refer to detailed project documentation:
 
-[Project_Documentation.pdf](./AD_Home_Lab_Project.pdf)
+[Project_Documentation.pdf](./AD_Home_Lab_Project.pdf) 📄
 
 This PDF provides step-by-step guidance on setting up the environment, configuring Active Directory and Splunk, and implementing the workflow.
 
