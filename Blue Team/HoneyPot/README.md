@@ -2,9 +2,7 @@
 
 Welcome to the **TPOT Honeypot Project**! This project aims to deploy a honeypot system using TPOT (The Passive OSINT Honeypot), which captures and analyzes attacks on your network. 🌐
 
-## 📸 TPOT in Action
-
-![TPOT Landing Page](path/to/your/tpot-landing-page-image.png)
+![TPOT Landing Page](\./landing_page.png)
 
 ## 📦 Overview
 
@@ -44,7 +42,7 @@ Now that we’ve covered the basics, let’s dive into some key features of T-Po
      ```bash
      git clone https://github.com/telekom-security/tpotce
      ```
-     or follow the [TL;DR](#tldr) and skip this section.
+     or follow the [TL;DR](https://github.com/telekom-security/tpotce/blob/master/README.md#tldr) and skip this section.
    - Change into the **tpotce/** folder: 
      ```bash
      cd tpotce
@@ -81,8 +79,8 @@ Now that we’ve covered the basics, let’s dive into some key features of T-Po
    - Open a web browser and go to `http://<TPOT-IP>:64297`.
    - Here, you can view the attack map and analyze incoming threats. 📊
 
-   ![TPOT Dashboard](path/to/your/tpot-dashboard-image.png)
-
+   ![TPOT ATTACKMAP](./dashboard_page.png)
+   ![TPOT DASHBOARD](./elasticvue_page.png)
 2. **Review Logs**:
    - Logs can be found in `/var/log/honeypots/` for detailed insights.
 
