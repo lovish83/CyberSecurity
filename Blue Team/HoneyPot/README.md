@@ -27,8 +27,8 @@ Now that we’ve covered the basics, let’s dive into some key features of T-Po
 
 ## 💻 Prerequisites
 
-- **VirtualBox**: Ensure you have VirtualBox installed to run the TPOT VM.
-- **Kali Linux**: Recommended for simulating attacks against the honeypot.
+- **VirtualBox**: Ensure you have [VirtualBox](https://www.virtualbox.org/) installed to run the TPOT VM.
+- **Kali Linux**: Recommended for simulating attacks against the honeypot. You can download it from [Kali Linux](https://www.kali.org/downloads/).
 - **A Stable Internet Connection**: Necessary for exposing the TPOT to real-world traffic if desired. 📶
 
 ## 🚀 Getting Started
@@ -88,11 +88,12 @@ Now that we’ve covered the basics, let’s dive into some key features of T-Po
 
 - **Monitor Activity**: Regularly check the TPOT dashboard for any suspicious activities.
 - **Strong Passwords**: Use strong, unique passwords for your VM to avoid unauthorized access.
-- **Data Usage**: Be mindful of your mobile data consumption when exposing the VM to the internet. 📱
+- **Data Usage**: Be mindful of your data consumption when exposing the VM to the internet.
 
 ## 📞 Support
 
-For questions or issues, feel free to reach out to the community or check the official TPOT documentation.
+For questions or issues, feel free to reach out to the community or check the official [TPOT documentation](https://github.com/telekom-security/tpotce/blob/master/README.md).
+
 
 ---
 
